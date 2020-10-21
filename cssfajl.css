@@ -1,0 +1,28 @@
+#id
+{
+    border: 2px;
+    border-color: rgb(19, 61, 32) ;
+    background-color: rgb(206, 233, 206);
+    border-collapse: collapse;
+
+
+}
+#id2red
+{
+    background-color: darkgreen;
+    color: darkred;
+
+}
+.klasa
+{
+    text-align: center;
+    border: solid green;
+    width: 500px;
+    padding: 10px 60px 25px 45px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+
+
+
+}
